@@ -1,0 +1,8 @@
+.product img {
+  height: 286px;
+  width: 286px;
+}
+.product {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
